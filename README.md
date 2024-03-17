@@ -1,3 +1,3 @@
 # github-learn
-this is my first git repository
-auther - chetan
+this is my first git repository.
+Author - chetan
